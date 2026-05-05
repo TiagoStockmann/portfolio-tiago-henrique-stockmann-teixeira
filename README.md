@@ -69,3 +69,14 @@ Busco constantemente aprimorar minhas habilidades técnicas através de laborat�
 
 ### 🔌 IoT & Hardware
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+### 📂 Portfólio de Projetos
+ 
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Algoritmo de Auditoria de Dados** | Algoritmo que detecta outliers e anomalias em conjuntos de dados financeiros, aplicando normalização e margem de tolerância. | [Ver Projeto](./Algoritmo-de-Auditoria-de-Dados/) |
+| **Engenharia de Soluções Lógicas** | Solução algorítmica para problemas complexos do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./Engenharia-de-Soluções-Lógicas/) |
+| **Modularização** | Separação do código em funções independentes para facilitar manutenção, leitura e reutilização. | [Ver Projeto](./Modularização/) |
+| **Traduzindo Lógica para Python** | Quatro programas práticos: processador de vendas, analisador de clima, sistema de notas e simulador de poupança. | [Ver Projeto](./Traduzindo-Lógica-para-Python/) |
+| **Engenharia de Contexto e Lógica Física** | Análise de microclima urbano (Mooca, Tatuapé, Guaianases) e simulador de rota de evacuação com listas e loops. | [Ver Projeto](./Engenharia-de-Contexto-e-Lógica-Física/) |
+| **Desenhando Emojis com Dados** | Manipulação de matrizes, dicionários e tuplas com loops aninhados para criar arte visual em pixel com matplotlib. | [Ver Projeto](./Desenhando-Emojis-com-Dados/) |
