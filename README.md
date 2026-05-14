@@ -80,3 +80,4 @@ Busco constantemente aprimorar minhas habilidades técnicas através de laborat�
 | **Traduzindo Lógica para Python** | Quatro programas práticos: processador de vendas, analisador de clima, sistema de notas e simulador de poupança. | [Ver Projeto](./Traduzindo-Lógica-para-Python/) |
 | **Engenharia de Contexto e Lógica Física** | Análise de microclima urbano (Mooca, Tatuapé, Guaianases) e simulador de rota de evacuação com listas e loops. | [Ver Projeto](./Engenharia-de-Contexto-e-Lógica-Física/) |
 | **Desenhando Emojis com Dados** | Manipulação de matrizes, dicionários e tuplas com loops aninhados para criar arte visual em pixel com matplotlib. | [Ver Projeto](./Desenhando-Emojis-com-Dados/) |
+| **Sistema de Auditoria de Recursos** | Manipulação de matrizes, dicionários e tuplas com loops aninhados para criar arte visual em pixel com matplotlib. | [Ver Projeto](./sistema-de-auditoria-de-recursos/) |
