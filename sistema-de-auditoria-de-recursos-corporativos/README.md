@@ -42,9 +42,6 @@ Breve explicação de como o código foi organizado:
  
 ## 👤 Autor
  
-* **Kaique Vieira Santos**
-* LinkedIn: [https://www.linkedin.com/in/kaique-santos-ab70283b5/]
-* E-mail: [kaique207b@gmail.com]
- 
----
-*Projeto acadêmico com foco na aplicação prática de conceitos avançados da linguagem Python.*
+* **Tiago Stockmann Teixeira**
+* LinkedIn: [https://www.linkedin.com/in/tiagostockmann/]
+* E-mail: [tiago.teixeirastockmann@gmail.com]
